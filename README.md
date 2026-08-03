@@ -2,52 +2,52 @@
 
 > Welcome to my GitHub profile! I'm a passionate creator who loves blending logic with art. Whether I'm diving deep into a machine learning model, designing visual media, or playing a strategic game of chess, I'm always looking for ways to challenge myself and learn something new.
 
-## 🚀 About Me
+# 🚀 About Me
 
 > I am a multidisciplinary developer and artist. I thrive on the intersection of technology and creativity, constantly seeking projects that allow me to utilize both sides of my brain.
 
-🔭 Currently focusing on: Enhancing my skills in Artificial Intelligence and Machine Learning.
+  🔭 Currently focusing on: Enhancing my skills in Artificial Intelligence and Machine Learning.
 
-🌱 Learning: Core Machine Learning, Adobe Illustrator, Calculus, Physics.
+  🌱 Learning: Core Machine Learning, Adobe Illustrator, Calculus, Physics.
 
-💬 Ask me about: Python, C++, Graphic Design, or my latest chess opening strategies!
+  💬 Ask me about: Python, C++, Graphic Design, or my latest chess opening strategies!
 
-📫 How to reach me: omniverseiiv@gmail.com.
+  📫 How to reach me: omniverseiiv@gmail.com.
 
-## 💻 Tech Stack & Skills
+# 💻 Tech Stack & Skills
 
-**Languages & Databases**
+## **Languages & Databases**
 
-- Here are the programming languages and database technologies I work with most frequently:
+Here are the programming languages and database technologies I work with most frequently:
 
-**Core Languages:  Python | C++ | C**
+  -**Core Languages:  Python | C++ | C**
 
-**Data Management: SQL**
+  -**Data Management: SQL**
 
 ## Artificial Intelligence & Machine Learning
 
 > I have a strong interest in AI and ML, constantly exploring new algorithms and their practical applications.
 (Consider adding specific ML libraries here if you use them, like TensorFlow or PyTorch)
 
-## 🎨 Creative Pursuits
+# 🎨 Creative Pursuits
 
 Beyond code, I have a deep passion for visual and auditory arts.
 
-**Art & Design**
+## **Art & Design**
 
-Mixed Media Art: I love experimenting with different physical and digital mediums to create unique pieces.
+**Mixed Media Art:** I love experimenting with different physical and digital mediums to create unique pieces.
 
-Graphic Design: Experienced in creating compelling visual narratives and branding elements.
+## **Graphic Design:** Experienced in creating compelling visual narratives and branding elements.
 (Consider listing tools like Adobe Illustrator or Photoshop if applicable)
 
-**Video & Audio**
+## **Video & Audio**
 
-Video Editing: Proficient in cutting, color grading, and producing polished video content.
+**Video Editing:** Proficient in cutting, color grading, and producing polished video content.
 
-Music: A dedicated music enthusiast, exploring various genres and the intersection of music and technology.
+**Music:** A dedicated music enthusiast, exploring various genres and the intersection of music and technology.
 
-♟️ Beyond the Screen
+#♟️ Beyond the Screen
 
 When I step away from my workstation, you can usually find me deeply focused on a chessboard.
 
-Chess: A strategic passion that sharpens my problem-solving skills, which directly translates to my programming and design work.
+**Chess:** A strategic passion that sharpens my problem-solving skills, which directly translates to my programming and design work.
