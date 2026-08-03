@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]👋
+# Hi there, I'm Aarav Palni👋
 
-Welcome to my GitHub profile! I'm a passionate creator who loves blending logic with art. Whether I'm diving deep into a machine learning model, designing visual media, or playing a strategic game of chess, I'm always looking for ways to challenge myself and learn something new.
+> Welcome to my GitHub profile! I'm a passionate creator who loves blending logic with art. Whether I'm diving deep into a machine learning model, designing visual media, or playing a strategic game of chess, I'm always looking for ways to challenge myself and learn something new.
 
 🚀 About Me
 
