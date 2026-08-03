@@ -18,7 +18,7 @@
 
 **Languages & Databases**
 
-## Here are the programming languages and database technologies I work with most frequently:
+Here are the programming languages and database technologies I work with most frequently:
 
 **Core Languages:  Python | C++ | C**
 **Data Management: SQL**
