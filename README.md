@@ -52,8 +52,8 @@ Here are the programming languages and database technologies I work with most fr
 
 **Music:** A dedicated music enthusiast, exploring various genres and the intersection of music and technology.
 
-#♟️ Beyond the Screen
+# ♟️ Beyond the Screen
 
-When I step away from my workstation, you can usually find me deeply focused on a chessboard.
+> When I step away from my workstation, you can usually find me deeply focused on a chessboard.
 
 **Chess:** A strategic passion that sharpens my problem-solving skills, which directly translates to my programming and design work.
