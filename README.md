@@ -2,7 +2,7 @@
 
 > Welcome to my GitHub profile! I'm a passionate creator who loves blending logic with art. Whether I'm diving deep into a machine learning model, designing visual media, or playing a strategic game of chess, I'm always looking for ways to challenge myself and learn something new.
 
-🚀 About Me
+## 🚀 About Me
 
 I am a multidisciplinary developer and artist. I thrive on the intersection of technology and creativity, constantly seeking projects that allow me to utilize both sides of my brain.
 
