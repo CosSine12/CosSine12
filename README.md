@@ -4,19 +4,19 @@
 
 ## 🚀 About Me
 
-I am a multidisciplinary developer and artist. I thrive on the intersection of technology and creativity, constantly seeking projects that allow me to utilize both sides of my brain.
+> I am a multidisciplinary developer and artist. I thrive on the intersection of technology and creativity, constantly seeking projects that allow me to utilize both sides of my brain.
 
 🔭 Currently focusing on: Enhancing my skills in Artificial Intelligence and Machine Learning.
 
-🌱 Learning: [Insert what you are currently learning, e.g., advanced neural networks, a new design tool].
+🌱 Learning: Core Machine Learning, Adobe Illustrator, Calculus, Physics.
 
 💬 Ask me about: Python, C++, Graphic Design, or my latest chess opening strategies!
 
-📫 How to reach me: [Insert Email Address or LinkedIn Profile].
+📫 How to reach me: omniverseiiv@gmail.com.
 
-💻 Tech Stack & Skills
+##💻 Tech Stack & Skills
 
-Languages & Databases
+**Languages & Databases**
 
 Here are the programming languages and database technologies I work with most frequently:
 
