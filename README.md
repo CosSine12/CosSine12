@@ -31,14 +31,20 @@ Here are the programming languages and database technologies I work with most fr
 
 # 🎨 Creative Pursuits
 
-Beyond code, I have a deep passion for visual and auditory arts.
+> Beyond code, I have a deep passion for visual and auditory arts.
 
 ## **Art & Design**
 
 **Mixed Media Art:** I love experimenting with different physical and digital mediums to create unique pieces.
 
-## **Graphic Design:** Experienced in creating compelling visual narratives and branding elements.
-(Consider listing tools like Adobe Illustrator or Photoshop if applicable)
+## **Graphic Design:** 
+
+> Experienced in creating compelling visual narratives and branding elements.
+
+  - **Davinci Resolve**
+  - **Premier Pro**
+  - **Adobe Illustrator**
+  - **Adobe Photoshop**
 
 ## **Video & Audio**
 
