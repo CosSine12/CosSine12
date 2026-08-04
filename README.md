@@ -18,8 +18,7 @@
 ---
 [![](https://komarev.com/ghpvc/?username=CosSine12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/SineTheta) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/SineTheta) 
+ 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
