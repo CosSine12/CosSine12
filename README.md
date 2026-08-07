@@ -2,7 +2,7 @@
 > Welcome to my GitHub profile! I'm a developer who enjoys balancing technical projects with creative work. Most of my time is spent building Machine Learning models, writing code, or experimenting with digital media.<br><br>Here is a quick snapshot of what I do:<br><br>💻 **Technical:**  I have a strong interest in AI and ML, constantly exploring new algorithms and their practical applications.<br><br>🎨 **Creative:** Outside of coding, I work with Graphic Design, Video Editing, and Mixed Media Art. I'm also a big music enthusiast.<br><br>♟️ **Hobbies:** I'm an avid chess player and always up for a game.<br><br>🌱 **Currently Learning:** Core Machine Learning, Physics, Calculus and Adobe Illsutrator<br>
 
 
-## 🌐 Socials
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Sin3ix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarav-palni-6884663a9/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aarav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omniverseiiv@gmail.com) 
 
 # 💻 Tech Stack:
