@@ -1,5 +1,5 @@
 <h1>Hey, I'm Aarav Palni</h1>
-<h3> > Welcome to my GitHub profile! I'm a developer who enjoys balancing technical projects with creative work. Most of my time is spent building Machine Learning models, writing code, or experimenting with digital media.</h3>
+<h3>Welcome to my GitHub profile! I'm a developer who enjoys balancing technical projects with creative work. Most of my time is spent building Machine Learning models, writing code, or experimenting with digital media.</h3>
 
 
 - 🔭 I’m currently working on [DiscordBot](https://github.com/CosSine12/Discord-Bot)
