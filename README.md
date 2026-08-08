@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Sin3ix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarav-palni-6884663a9/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aarav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omniverseiiv@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Sin3ix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarav-palni-6884663a9/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omniverseiiv@gmail.com) 
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -48,6 +48,10 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cossine12&show_icons=true&locale=en&layout=compact" alt="cossine12" /></p>
+
+![](https://github-readme-stats.shion.dev/api?username=CosSine12&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=CosSine12&theme=catppuccin_mocha&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=CosSine12&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cossine12&show_icons=true&locale=en" alt="cossine12" /></p>
 
