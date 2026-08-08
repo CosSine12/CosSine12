@@ -46,6 +46,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cossine12&show_icons=true&locale=en&layout=compact" alt="cossine12" /></p>
 
 ![](https://github-readme-stats.shion.dev/api?username=CosSine12&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=CosSine12&theme=catppuccin_mocha&hide_border=true)<br/>
