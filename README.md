@@ -1,4 +1,4 @@
-<h1>Hey, I'm Aarav Palni</h1>
+<h1>Hey, I'm Aarav</h1>
 <h3>Welcome to my GitHub profile! I'm a developer who enjoys balancing technical projects with creative work. Most of my time is spent building Machine Learning models, writing code, or experimenting with digital media.</h3>
 
 
