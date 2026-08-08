@@ -1,7 +1,6 @@
 <h1>Hey, I'm Aarav Palni</h1>
 <h3>Welcome to my GitHub profile! I'm a developer who enjoys balancing technical projects with creative work. Most of my time is spent building Machine Learning models, writing code, or experimenting with digital media.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cossine12&label=Profile%20views&color=0e75b6&style=flat" alt="cossine12" /> </p>
 
 - 🔭 I’m currently working on [DiscordBot](https://github.com/CosSine12/Discord-Bot)
 
@@ -52,9 +51,12 @@
 ![](https://streak-stats.demolab.com/?user=CosSine12&theme=catppuccin_mocha&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CosSine12&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cossine12&show_icons=true&locale=en" alt="cossine12" /></p>
+---------------------------------------------------------------------------------
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cossine12&" alt="cossine12" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cossine12&label=Profile%20views&color=0e75b6&style=flat" alt="cossine12" /> </p>
+
+----------------------------------------------------------------------------------
+
 
 
   
